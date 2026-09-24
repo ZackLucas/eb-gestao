@@ -1,0 +1,13 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Banco de dados local
+database.db
+
+# Variáveis de ambiente
+.env
